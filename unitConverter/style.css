@@ -1,0 +1,9 @@
+body {
+    padding: 15rem;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
